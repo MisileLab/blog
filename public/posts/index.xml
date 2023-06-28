@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 404 Not Found</title>
+    <link>https://blog.misilelaboratory.xyz/posts/</link>
+    <description>Recent content in Posts on 404 Not Found</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Jun 2023 10:08:12 +0900</lastBuildDate><atom:link href="https://blog.misilelaboratory.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Monorepo series/git-lfs will out</title>
+      <link>https://blog.misilelaboratory.xyz/posts/jamsync/</link>
+      <pubDate>Wed, 14 Jun 2023 10:08:12 +0900</pubDate>
+      
+      <guid>https://blog.misilelaboratory.xyz/posts/jamsync/</guid>
+      <description>The jamsync is open-sourced and it is rsync-based efficient version control system. git-lfs is hosted in gitlab and use in the github modules using git-submodules.
+The jamsync repository will hosted after many big files and it needs in github repository.
+Limitations Limitation is git-submodules can&amp;rsquo;t used and use the jamsync with sh or cmd(i don&amp;rsquo;t use windows btw). so maybe&amp;hellip; jamsync is not updated actively after 1 month. (because pijul isn&amp;rsquo;t updated actively now.</description>
+    </item>
+    
+    <item>
+      <title>The Baekjoon ProblemBook: ProblemBook.boj begin</title>
+      <link>https://blog.misilelaboratory.xyz/posts/announcement-02/</link>
+      <pubDate>Wed, 31 May 2023 11:59:31 +0900</pubDate>
+      
+      <guid>https://blog.misilelaboratory.xyz/posts/announcement-02/</guid>
+      <description>yeah the baekjoon problembook probably released after end joined competition with solution and description lol</description>
+    </item>
+    
+    <item>
+      <title>Announcement and AnA</title>
+      <link>https://blog.misilelaboratory.xyz/posts/announcement-01/</link>
+      <pubDate>Tue, 23 May 2023 16:10:58 +0900</pubDate>
+      
+      <guid>https://blog.misilelaboratory.xyz/posts/announcement-01/</guid>
+      <description>AnA will be a fullstack(backend and frontend) club and use tauri.
+My note will be public and programming some ideas </description>
+    </item>
+    
+    <item>
+      <title>No dead</title>
+      <link>https://blog.misilelaboratory.xyz/posts/test/</link>
+      <pubDate>Fri, 21 Apr 2023 01:28:22 +0900</pubDate>
+      
+      <guid>https://blog.misilelaboratory.xyz/posts/test/</guid>
+      <description>This site is not dead</description>
+    </item>
+    
+  </channel>
+</rss>
